@@ -112,7 +112,7 @@ All content is co-located with its component — no separate data files. Edit di
 ### Update LinkedIn URL
 In `src/components/Contact.js`, find the `contactLinks` array and replace:
 ```js
-href: 'https://linkedin.com/in/your-profile',
+href: 'https://linkedin.com/in/manish-kumar-srivastav/',
 ```
 with your actual LinkedIn URL.
 
