@@ -1,0 +1,2 @@
+# portfolio
+Backend Developer & AI Engineer focused on building scalable systems and real-world AI applications.  Experienced in leading teams in high-pressure hackathons, delivering full-stack solutions, and designing backend architectures using Python, Django, and modern ML tools.  Recognized for securing Top 3 at NIT Raipur and Top 20 in national-level AI hackathons, with hands-on experience in system design, API development, and data-driven applications.
