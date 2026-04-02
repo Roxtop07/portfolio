@@ -18,7 +18,7 @@
 
 ### Prerequisites
 
-- Node.js `v18+`
+- Node.js `v18+`j
 - npm `v9+`
 
 ### Installation
